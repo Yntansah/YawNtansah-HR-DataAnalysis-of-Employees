@@ -7,4 +7,4 @@ I am a Data Analyst with a background that combines nearly a decade of professio
 # ABOUT THE PROJECT
 This project is about the human resource analysis of just about 40 employees with focus on employees attrition, employees demographics and related insights and recommendations.
 
-<img width="800" height="518" alt="Screenshot 2026-07-10 at 9 50 16 AM" src="https://github.com/user-attachments/assets/12a6f772-e9dd-4dd0-9c5f-b9144e03cea6" />
+
