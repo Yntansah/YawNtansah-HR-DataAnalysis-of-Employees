@@ -21,4 +21,11 @@ The company is facing attrition at an alarming rate
 
 # BUSINESS OBJECTIVE
 To determine which department is having the highest attrition and why.
+
+# INSIGHTS 
+- Total number of employees is 40
+- Active employees 33
+- Number of employees that has left the company 7
+- Attrition rate is 17.50%
+- Percentage of attrition per department; sales is 71.43%, HR is 14.29% and Technology is 14.29%
   
