@@ -37,7 +37,7 @@ To determine which department is having the highest attrition and why.
 ### EMPLOYEES' DEMOGRAPHIC AND SALARIES DASHBOARD
 <img width="1200" height="700" alt="Screenshot 2026-07-10 at 9 53 00 AM" src="https://github.com/user-attachments/assets/fe69892c-4a12-440f-b2b1-c3aaf4321fe6" />
 
-## Recommendations
+## RECOMMENDATIONS
 
 1. **Review Sales compensation and workload.** Benchmark Sales salaries against market rate and investigate whether overtime and commission structure are driving dissatisfaction.
 2. **Audit overtime distribution.** Determine which teams carry the heaviest overtime load and consider caps or redistribution to reduce burnout-driven exits.
