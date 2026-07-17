@@ -23,16 +23,12 @@ The company is facing attrition at an alarming rate
 To determine which department is having the highest attrition and why.
 
 ## INSIGHTS 
-- Total number of employees is 40
-- Active employees 33
-- Number of employees that has left the company 7
-- Attrition rate is 17.50%
-- Percentage of attrition per department; sales is 71.43%, HR is 14.29% and Technology is 14.29%
-- Employees that have left the company are all bachelors holders.
-- Average job satisfaction is 3.58
-- Marketing department has the highest average job satisfaction while sales has the lowest average job satisfaction
-- Out of the 33 remaining remaining employees, there are 3 PhD holders, 18 masters holders and 12 bachelors
-- Total salaries of the active employees is $2,041,000
+
+1. **Sales drives attrition.** Sales accounts for over 71% of all exits, has the lowest average department salary (£44.11K), and the lowest job satisfaction score.
+2. **Overtime correlates with leaving.** Employees who worked overtime left at a noticeably higher rate than those who didn't, signalling workload may be a contributing factor to attrition.
+3. **Single employees leave more than married employees.** 6 single employees exited versus just 1 married employee — though this may reflect career stage/tenure rather than marital status itself.
+4. **Education pays off — except in Sales.** Master's degree holders earn the most overall and report higher satisfaction, but even educated staff in Sales report low satisfaction, pointing to a structural, department-level issue rather than an individual one.
+5. **Small sample size.** With 40 employees and 7 exits total, headline percentages (e.g. "71% of attrition is Sales") represent just 5 people. Findings should be treated as directional, not statistically conclusive.
 
 ## EMPLOYEES' ATTRITION DASHBOARD
 
@@ -40,6 +36,14 @@ To determine which department is having the highest attrition and why.
 
 ## EMPLOYEES' DEMOGRAPHIC AND SALARIES DASHBOARD
 <img width="1200" height="700" alt="Screenshot 2026-07-10 at 9 53 00 AM" src="https://github.com/user-attachments/assets/fe69892c-4a12-440f-b2b1-c3aaf4321fe6" />
+
+## Recommendations
+
+1. **Review Sales compensation and workload.** Benchmark Sales salaries against market rate and investigate whether overtime and commission structure are driving dissatisfaction.
+2. **Audit overtime distribution.** Determine which teams carry the heaviest overtime load and consider caps or redistribution to reduce burnout-driven exits.
+3. **Investigate the single-vs-married attrition gap further.** Cross-reference with age and tenure to check whether this is really a life-stage/career-stage pattern rather than a marital-status effect.
+4. **Prioritize retention efforts on Sales specifically.** Given it's the single largest driver of attrition, targeted intervention here will have the biggest impact on overall retention.
+5. **Expand the dataset.** With only 7 exits, future analysis would benefit from a larger sample to validate whether these patterns hold at scale.
 
 
 
